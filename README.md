@@ -112,7 +112,7 @@ Sansriti Mishra   : https://github.com/Cyberpunk-San
 
 Aditya Dec Sharma : https://github.com/Aditya12D
 
-Advik Rajvansh    :
+Advik Rajvansh    : https://github.com/lucifier950
 
 Upanshi Mittal    :
 
