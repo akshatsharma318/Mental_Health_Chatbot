@@ -8,7 +8,7 @@ A stress prediction system powered by Machine Learning (ML) for personalized wel
 Interactive dashboards for visualizing health trends and stress patterns.
 
 # 🚀 Features
-🗣️ 1. IR-Based Mental Health Chatbot
+## 🗣️ 1. IR-Based Mental Health Chatbot
 Crisis Keyword Detection: Flags emergency terms like “suicide”, “want to die” and shows Indian mental health helpline info.
 
 Hybrid Retrieval Logic:
@@ -19,7 +19,7 @@ Ranks responses using a custom fusion of scores.
 
 Evaluation: Measured using NDCG (Normalized Discounted Cumulative Gain) for retrieval performance.
 
-🤖 2. Stress Level Analyzer (ML-Based)
+## 🤖 2. Stress Level Analyzer (ML-Based)
 Inputs: Age, Sleep Time, Physical Activity, Heart Rate, Blood Pressure
 
 Predictions:
@@ -34,7 +34,7 @@ Regression: MAE, R² Score
 
 Classification: Accuracy, Classification Report
 
-# 📊 3. Visual Health Dashboard
+## 📊 3. Visual Health Dashboard
 User-wise Stress Visualization: Personal metrics in radar and bar charts
 
 Population Trends:
@@ -57,7 +57,7 @@ Score Fusion Strategy: Weighted hybrid of sparse + dense scores
 
 Ranking Evaluation: ndcg_score
 
-🤖 Machine Learning
+# 🤖 Machine Learning
 Models: RandomForestRegressor, RandomForestClassifier
 
 Data Processing:
@@ -72,8 +72,34 @@ Regression: MAE, R²
 
 Classification: Confusion Matrix, Precision, Recall, F1
 
-📂 Datasets
+# 📂 Datasets
 Mental_Health_FAQ.csv: Pre-curated mental health Q&A pairs for chatbot
 
 Sleep_health_and_lifestyle_dataset.csv: User health data (Age, BP, Sleep, etc.)
 
+# 🛠️ Tech Stack
+Component:	Tools/Libraries
+
+Backend	:Flask, Python
+
+ML/IR	: scikit-learn, sentence-transformers, rank_bm25
+
+NLP :	NLTK
+
+Data Handling	: pandas, numpy
+
+Visualization :	matplotlib
+
+# Deployment : Ready for platforms like Render, Heroku, etc.
+
+### 📍 Chatbot Interface
+### 📍 Stress Input Form
+### 📍 Radar Chart for Health Metrics
+### 📍 Age vs Stress Bar Chart
+
+# 📌 Future Improvements
+Live feedback loop for chatbot training
+
+User login and profile history
+
+Mobile-first UI redesign
