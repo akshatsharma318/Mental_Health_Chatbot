@@ -97,9 +97,31 @@ Visualization :	matplotlib
 ### 📍 Radar Chart for Health Metrics
 ### 📍 Age vs Stress Bar Chart
 
-# 📌 Future Improvements
-Live feedback loop for chatbot training
+---
+<img src="https://github.com/user-attachments/assets/d45b0aab-6317-4689-a637-262994cb9d67" width="600"/>
+<img src="https://github.com/user-attachments/assets/ae9dc69a-5a83-46c4-8700-28714ae85535" width="200"/>
+<img src="https://github.com/user-attachments/assets/7bc86a58-78a7-4b69-b3d4-015b70f5f5a7" width="400"/>
+<img src="https://github.com/user-attachments/assets/9719a01a-e794-4eaa-bfee-2cb836170783" width="400"/>
+<img src="https://github.com/user-attachments/assets/3620a070-2339-49db-833e-7ab42e7bc77b" width="400"/>
+<img src="https://github.com/user-attachments/assets/d9a05e79-d5b9-4f0b-bfc2-2cbea99e42c2" width="400"/>
 
-User login and profile history
+---
 
-Mobile-first UI redesign
+#### Other teammates : 
+Sansriti Mishra   : https://github.com/Cyberpunk-San
+
+Aditya Dec Sharma : https://github.com/Aditya12D
+
+Advik Rajvansh    :
+
+Upanshi Mittal    :
+
+## ✅ How to Run
+
+```bash
+git clone https://github.com/akshatsharma318/Mental_Health_Chatbot.git
+cd IR
+cd mental-health
+pip install -r requirements.txt
+python app.py  # Flask entry point
+
