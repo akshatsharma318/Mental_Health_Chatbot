@@ -114,7 +114,7 @@ Aditya Dec Sharma : https://github.com/Aditya12D
 
 Advik Rajvansh    : https://github.com/lucifier950
 
-Upanshi Mittal    :
+Upanshi Mittal    : https://github.com/Upanshi-Mittal
 
 ## ✅ How to Run
 
